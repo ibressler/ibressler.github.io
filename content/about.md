@@ -1,11 +1,12 @@
 +++
 title = "About"
-date = "2017-06-27T17:39:21-07:00"
+date = "2022-03-14T00:00:00-00:00"
 draft = false
 +++
 
-Osprey Delight is the free-minded artist's choice for a clutter-free and fast single-page portfolio. 
+Hello, my name is Ingo Breßler. This is my portfolio page.
+I'm a computer engineer by training with a focus on numerics, machine control, computational geometry, optimization algorithms and more.
 
-It tastes a bit different than [the original great Osprey theme](https://github.com/tomanistor/osprey) and adds awesome new functionality to your Delight.
+This is the portfolio of Ingo Breßler.
 
-It's perfectly suited to show off your awesome work! {{< icon "rocket icon-pulse-fast" >}}
+{{< icon "rocket icon-pulse-fast" >}}
