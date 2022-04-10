@@ -48,9 +48,6 @@ Params:
     url: github = "https://github.com/kdevo/osprey-delight"
   - type: stackoverflow  
     url: ""
-  - type: spotify
-    url: https://open.spotify.com/artist/5NhBOdJh6T1tgtM5Au1Opl
-
 
 ## Theme features:
   Feat:
