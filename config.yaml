@@ -41,13 +41,15 @@ Params:
 ## Social links in footer:
   Social:
   - type: twitter # the icon to use. can be anything mentioned in "assets/sass/_icons.scss" 
-    url: ""
+    url: "https://twitter.com/ingobressler"
   - type: linkedin 
-    url: ""
+    url: "https://www.linkedin.com/in/ingobressler"
+  - type: xing 
+    url: "https://www.xing.com/profile/Ingo_Bressler"
   - type: github
-    url: github = "https://github.com/kdevo/osprey-delight"
-  - type: stackoverflow  
-    url: ""
+    url: "https://github.com/ibressler"
+#  - type: stackoverflow  
+#    url: ""
 
 ## Theme features:
   Feat:
