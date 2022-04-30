@@ -9,6 +9,11 @@ disableKinds: ["taxonomy", "taxonomyTerm"]
 enableEmoji: true
 pygmentsUseClasses: true
 
+caches:
+    getjson:
+        dir: ":cacheDir/:project"
+        maxAge: "10s"
+
 ## Generic theme parameters:
 Params:
   author: "Ingo Breßler"
