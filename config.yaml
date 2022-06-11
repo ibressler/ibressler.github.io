@@ -64,18 +64,19 @@ Params:
     useLazySizes: true
 
     # ajaxBasin uses Basin for a functional contact form.
-    ajaxBasin: "https://usebasin.com/f/{YOUR-12-CHAR-FORM-KEY-HERE}"
+    ajaxBasin: "https://usebasin.com/f/a995a49d2fc1"
 
     # useStructuredData for your own https://schema.org/Person (SEO-friendly).
     #   This will be auto-generated dependent on the information you provide in this configuration.
-    useStructuredData: false
+    useStructuredData: true
 
     # structuredDataGitHubUser needs your USERNAME so that the GitHub API is used to fetch more information for structured data.
     #   This will use information that is publically available about your GitHub user profile at https://api.github.com/users/{USERNAME}.
-    #structuredDataGitHubUser = "USERNAME"
+    structuredDataGitHubUser: "ibressler"
 
-    # useTermynal enables Termynal (https://github.com/ines/termynal), a small JS library for showing a terminal "animation" from within your gallery item.
-    #   The cool thing is that the library has been stripped-down to a minimum to only have the necessary functionality.
+    # useTermynal enables Termynal (https://github.com/ines/termynal),
+    # a small JS library for showing a terminal "animation" from within your gallery item.
+    # The cool thing is that the library has been stripped-down to a minimum to only have the necessary functionality.
     useTermynal: true
 
     googleTagManager: ""
