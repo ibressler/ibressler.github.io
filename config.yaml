@@ -12,7 +12,9 @@ pygmentsUseClasses: true
 caches:
     getjson:
         dir: ":cacheDir/:project"
-        maxAge: "10s"
+        maxAge: "10h"
+
+ignoreErrors: ["error-remote-getjson"]
 
 ## Generic theme parameters:
 Params:
