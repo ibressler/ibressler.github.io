@@ -28,6 +28,8 @@ Params:
   #   Use a path relative to the assets dir for auto-resizing.
   logoSmall: "logo-small.png"
 
+  background: "background.jpg"
+
   # tagline (followed by a cursor) is shown at the top, below the logo
   #tagline: "Welcome!"
 
