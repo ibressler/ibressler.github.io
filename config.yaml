@@ -24,6 +24,7 @@ module:
 Params:
   author: "Ingo Breßler"
   description: "The Portfolio of Ingo Breßler"
+  theme: dedark
 
   # logoBig appears at the top of the page. Use a path relative to the assets dir for auto-resizing. 
   logoBig: "logo-large.png"
