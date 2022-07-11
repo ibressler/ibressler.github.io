@@ -29,7 +29,7 @@ github:
     showButtons: true
 buttons:
   - i18n: paper # i18n key (see i18n directory, see https://gohugo.io/functions/i18n/)
-    icon: doc-text # optional: use an icon (in this case arrow right)
+    icon: paper # optional: use an icon (in this case arrow right)
     newTab: true # optional: controls if url should be opened in new tab
     url: "https://scripts.iucr.org/cgi-bin/paper?S1600576715016544"
 # [bool] Draft mode will decide if file will be published to 'public/' directory.
