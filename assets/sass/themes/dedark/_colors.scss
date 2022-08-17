@@ -1,0 +1,10 @@
+$primary-fg-color: #fafafa;
+$primary-bg-color: #111218;
+$button-bg-color: #1f9ee5;
+$secondary-bg-color: #000303;
+$accent-color: #1f9ee5; // #126797;
+$alt-text-color: $button-bg-color;
+
+@import "../color-map-dark";
+@import "../color-map-dark-fixes";
+$gallery-modal-close-color: #2F4858;

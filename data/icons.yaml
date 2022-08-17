@@ -4,3 +4,7 @@ xing: fab xing
 rocket: fas rocket
 paper: fas scroll
 about: fas laptop-code
+analysis: fas chart-bar
+geometry: fas shapes
+machine: fas keyboard
+optim: fas calculator
