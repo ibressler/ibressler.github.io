@@ -3,3 +3,11 @@
 .bg { h1,h2 {
   text-shadow: 0 0 5px #222222;
 } }
+
+footer {
+  padding-bottom: 0.5rem;
+  .social {
+     margin-top: $vertical-rhythm;
+     margin-bottom: $vertical-rhythm;
+   }
+}
