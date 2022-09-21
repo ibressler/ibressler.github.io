@@ -1,5 +1,5 @@
 ---
-title: "Privacy"
+title: "Privacy Policy"
 date: "2022-09-16"
 draft: false
 weight: 10
