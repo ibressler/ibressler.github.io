@@ -1,6 +1,6 @@
 ---
-title: "About"
-date: "2022-03-14T00:00:00-00:00"
+title: About
+date: 2022-03-14
 draft: false
 weight: 50
 ---
