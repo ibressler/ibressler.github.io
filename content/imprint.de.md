@@ -1,6 +1,5 @@
 ---
 title: Impressum
-slug: impressum
 aliases:
   - /impressum
 date: 2022-09-16

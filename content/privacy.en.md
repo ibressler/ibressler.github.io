@@ -1,6 +1,6 @@
 ---
-title: "Privacy Policy"
-date: "2022-09-16"
+title: Privacy Policy
+date: 2022-09-16
 draft: false
 weight: 10
 footerlink: true
@@ -25,9 +25,9 @@ Status: June 26, 2022
 - [Transfer of personal data](#m25)
 - [Data processing in third countries](#m24)
 - [Deletion of data](#m12)
+- [Use of cookies](#m134)
 - [Provision of online services and web hosting](#m225)
 - [Contact and inquiry management](#m182)
-- [Surveys and polls](#m408)
 - [Presence in social networks (social media)](#m136)
 - [Plugins and embedded features and content](#m328)
 - [Amendment and update of privacy policy](#m15)
@@ -59,14 +59,13 @@ The following overview summarizes the types of data processed and the purposes o
 
 - Communication partners
 - Users
-- Participants
 
 ### Purposes of processing
 
-- Provision of contractual services and customer service
 - Contact requests and communication
+- Provision of contractual services and customer service
+- Security measures
 - Reach measurement
-- Conversion measurement
 - Management and response to requests
 - Server monitoring and error detection
 - Feedback
@@ -89,7 +88,7 @@ We make decisions in accordance with the legal requirements, taking into account
 
 The measures include, in particular, safeguarding the confidentiality, integrity and availability of data by controlling physical and electronic access to the data as well as the access, input, transfer, safeguarding of availability and its separation. Furthermore, we have established procedures to ensure the exercise of data subjects' rights, the deletion of data, and responses to data compromise. Furthermore, we take the protection of personal data into account as early as the development or selection of hardware, software and processes in accordance with the principle of data protection, through technology design and through data protection-friendly default settings.
 
-SSL encryption (https): To protect your data transmitted via our online offer, we use SSL encryption. You can recognize such encrypted connections by the prefix `https://` in the address bar of your browser.
+TLS encryption (https): To protect your data transmitted via our online offer, we use TLS encryption. You can recognize such encrypted connections by the prefix `https://` in the address bar of your browser.
 
 ## Transmission of personal data {#m25}
 
@@ -107,6 +106,25 @@ The data processed by us will be deleted in accordance with the legal requiremen
 
 Our data protection notices may also contain further details on the retention and deletion of data, which take priority for the respective processing operations.
 
+## Einsatz von Cookies {#m134}
+
+Cookies are small text files or other memory tags that store information on end devices and read information from the end devices. For example, to store the login status in a user account, a shopping cart content in an e-shop, the content accessed or functions used of an online offer. Cookies can further be used for various purposes, e.g. for purposes of functionality, security and comfort of online offers as well as the creation of analyses of visitor flows.
+
+**Notes on consent:** We use cookies in accordance with legal requirements. Therefore, we obtain prior consent from users, except where it is not required by law. In particular, consent is not required if the storage and reading of information, including cookies, is absolutely necessary to provide the user with a telemedia service (i.e. our online offering) that they have expressly requested. The revocable consent will be clearly communicated to the users and will contain the information about the respective cookie use.
+
+**Notes on legal bases under data protection law:** The legal basis under data protection law on which we process users' personal data using cookies depends on whether we ask users for consent. If users consent, the legal basis for processing their data is their declared consent. Otherwise, the data processed with the help of cookies is processed on the basis of our legitimate interests (e.g. in the business operation of our online offer and improvement of its usability) or, if this is done in the context of the performance of our contractual obligations, if the use of cookies is necessary to fulfill our contractual obligations. For which purposes the cookies are processed by us, we clarify in the course of this privacy policy or in the context of our consent and processing processes.
+
+**Storage duration:** In terms of storage duration, the following types of cookies are distinguished:
+
+- **Temporary cookies (also: session cookies):** Temporary cookies are deleted at the latest after a user has left an online offer and closed his end device (e.g. browser or mobile application).
+- **Permanent cookies:** Permanent cookies remain stored even after the end device is closed. For example, the login status can be saved or preferred content can be displayed directly when the user visits a website again. Likewise, user data collected with the help of cookies can be used for reach measurement. Unless we provide users with explicit information about the type and storage duration of cookies (e.g., when obtaining consent), users should assume that cookies are permanent and that the storage period can be up to two years.
+
+**General information on revocation and objection (opt-out):** Users can revoke the consents they have given at any time and also file an objection to processing in accordance with the legal requirements in Art. 21 DSGVO. Users can also declare their objection via their browser settings, e.g. by deactivating the use of cookies (although this may also limit the functionality of our online services). An objection to the use of cookies for online marketing purposes can also be made via the websites {{< newtabref href="https://optout.aboutads.info" title="https://optout.aboutads.info" >}} und {{< newtabref href="https://www.youronlinechoices.com" title="https://www.youronlinechoices.com" >}}.
+
+**Further guidance on processing operations, procedures and services:**
+
+- **Processing of cookie data on the basis of consent:** We use a cookie consent management procedure in the context of which the consent of users to the use of cookies, or the processing and providers named in the cookie consent management procedure, can be obtained and managed and revoked by users. Here, the declaration of consent is stored in order not to have to repeat its query and to be able to prove the consent in accordance with the legal obligation. The storage can take place on the server side and/or in a cookie (so-called opt-in cookie, or with the help of comparable technologies), in order to be able to assign the consent to a user or their device. Subject to individual information on the providers of cookie management services, the following information applies: The duration of the storage of consent can be up to two years. A pseudonymous user identifier is created and stored with the time of consent, information on the scope of consent (e.g., which categories of cookies and/or service providers), as well as the browser, system and end device used.
+
 ## Provision of the online offer and web hosting {#m225}
 
 In order to provide our online offer securely and efficiently, we use the services of one or more web hosting providers from whose servers (or servers managed by them) the online offer can be accessed. For these purposes, we may use infrastructure and platform services, computing capacity, storage space and database services, as well as security services and technical maintenance services.
@@ -115,14 +133,14 @@ The data processed as part of the provision of the hosting offer may include all
 
 - **Types of data processed:** Content data (e.g. entries in online forms); usage data (e.g. web pages visited, interest in content, access times); meta/communication data (e.g. device information, IP addresses).
 - **Data subjects:** Users (e.g., website visitors, users of online services).
-- **Purposes of processing:** Provision of our online offer and user-friendliness; information technology infrastructure (operation and provision of information systems and technical devices (computers, servers, etc.).); reach measurement (e.g. access statistics, recognition of returning visitors); conversion measurement (measurement of the effectiveness of marketing measures); server monitoring and error detection.
+- **Purposes of processing:** Provision of our online offer and user-friendliness; information technology infrastructure (operation and provision of information systems and technical devices (computers, servers, etc.).); reach measurement (e.g. access statistics, recognition of returning visitors); server monitoring and error detection.
 - **Legal basis:** Legitimate interests (Art. 6 para. 1 p. 1 lit. f. GDPR).
 
 **Further notes on processing processes, procedures and services:**
 
 - **Collection of access data and log files:** We ourselves (or our web hosting provider) collect data on each access to the server (so-called server log files). The server log files may include the address and name of the web pages and files accessed, the date and time of access, data volumes transferred, notification of successful access, browser type and version, the user's operating system, referrer URL (the previously visited page) and, as a rule, IP addresses and the requesting provider. The server log files may be used, on the one hand, for security purposes, e.g., to prevent server overload (especially in the event of abusive attacks, so-called DDoS attacks) and, on the other hand, to ensure the utilization of the servers and their stability; Legal basis: Legitimate interests (Art. 6 para. 1 p. 1 lit. f. GDPR); Deletion of data: Log file information is stored for a maximum period of 30 days and then deleted or anonymized. Data whose further storage is required for evidentiary purposes is exempt from deletion until final clarification of the respective incident.
 - **Content-Delivery-Network:** We use a content delivery network (CDN). A CDN is a service with the help of which the content of an online offer, in particular large media files such as graphics or program scripts, can be delivered faster and more securely with the help of regionally distributed servers connected via the Internet; Legal basis: Legitimate interests (Art. 6 para. 1 p. 1 lit. f. GDPR).
-- **GitHub:** Services in the field of providing information technology infrastructure and related services (e.g., storage space and/or computing capacity); Service provider: GitHub B.V., Vijzelstraat 68-72, 1017 HL Amsterdam, The Netherlands; Legal Grounds: Legitimate Interests (Art. 6 para. 1 p. 1 lit. f. GDPR); Website: https://github.com/; Privacy Policy: https://docs.github.com/github/site-policy/github-privacy-statement; Order Processing Agreement: https://github.com/customer-terms/github-data-protection-agreement; Standard Contractual Clauses (ensuring level of data protection in case of processing in third countries): https://docs.github.com/site-policy/github-terms/github-terms-of-service/.
+- **GitHub:** Services in the field of providing information technology infrastructure and related services (e.g., storage space and/or computing capacity); Service provider: GitHub B.V., Vijzelstraat 68-72, 1017 HL Amsterdam, The Netherlands; Legal Grounds: Legitimate Interests (Art. 6 para. 1 p. 1 lit. f. GDPR); Website: <https://github.com/>; Privacy Policy: <https://docs.github.com/github/site-policy/github-privacy-statement>; Order Processing Agreement: <https://github.com/customer-terms/github-data-protection-agreement>; Standard Contractual Clauses (ensuring level of data protection in case of processing in third countries): <https://docs.github.com/site-policy/github-terms/github-terms-of-service/>.
 
 ## Contact and Inquiry Management {#m182}
 
@@ -138,19 +156,6 @@ The response to the contact inquiries as well as the management of contact and i
 **Further notes on processing operations, procedures and services:**
 
 - **Contact form:** If users contact us via our contact form, e-mail or other communication channels, we process the data communicated to us in this context to process the communicated request. For this purpose, we process personal data in the context of pre-contractual and contractual business relationships, insofar as this is necessary for their fulfillment and otherwise on the basis of our legitimate interests as well as the interests of the communication partners in responding to the requests and our statutory retention obligations; Legal basis: Contractual performance and pre-contractual inquiries (Art. 6 para. 1 p. 1 lit. b. GDPR), Legitimate interests (Art. 6 para. 1 p. 1 lit. f. GDPR).
-
-## Surveys and polls {#m408}
-
-We conduct surveys and interviews in order to collect information for the respective communicated survey or interview purpose. The surveys and questionnaires we conduct (hereinafter "surveys") are evaluated anonymously. Personal data is only processed insofar as this is necessary for the provision and technical implementation of the surveys (e.g. processing of the IP address in order to display the survey in the user's browser or to enable the survey to be resumed with the aid of a cookie).
-
-- **Types of data processed:** Contact data (e.g. e-mail, phone numbers); content data (e.g. entries in online forms); usage data (e.g. websites visited, interest in content, access times); meta/communication data (e.g. device information, IP addresses).
-- **Data subjects:** Communication partners; participants.
-- **Purposes of processing:** Feedback (e.g., collecting feedback via an online form).
-- **Legal basis:** Legitimate interests (Art. 6 para. 1 p. 1 lit. f. GDPR).
-
-**Further notes on processing processes, procedures and services:**
-
-- **Google form:** Creation and analysis of online forms, surveys, feedback forms, etc; service provider: Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland; parent company: Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA; Legal basis: Legitimate interests (Art. 6 para. 1 p. 1 lit. f. GDPR); Website: https://www.google.de/intl/de/forms; Privacy policy: https://policies.google.com/privacy; Order processing agreement: https://workspace.google.com/terms/dpa_terms.html; Standard contractual clauses (ensuring data protection level for processing in third countries): https://cloud.google.com/terms/eu-model-contract-clause.
 
 ## Presence in social networks (social media) {#m136}
 
@@ -213,9 +218,8 @@ As a data subject, you are entitled to various rights under the GDPR, which aris
 
 This section provides you with an overview of the terms used in this privacy policy. Many of the terms are taken from the law and defined primarily in Art. 4 of the GDPR. The legal definitions are binding. The following explanations, on the other hand, are primarily intended to aid understanding. The terms are sorted alphabetically.
 
-- **Conversion measurement:** Conversion measurement (also referred to as "visit action evaluation") is a method used to determine the effectiveness of marketing measures. For this purpose, a cookie is usually stored on the users' devices within the websites on which the marketing measures take place and then retrieved again on the target website. For example, this allows us to track whether the ads we have placed on other websites have been successful.
 - **Personal Data:** "Personal data" means any information relating to an identified or identifiable natural person (hereinafter "data subject"); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier (e.g. cookie) or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.
 - **Reach measurement:** Reach measurement (also known as web analytics) is used to evaluate the flow of visitors to an online offering and can include visitors' behavior or interests in certain information, such as website content. With the help of reach analysis, website owners can see, for example, at what time visitors visit their website and what content they are interested in. This enables them, for example, to better adapt the content of the website to the needs of their visitors. For reach analysis purposes, pseudonymous cookies and web beacons are often used to recognize returning visitors and thus obtain more precise analyses of the use of an online offer.
 - **Server monitoring and error detection:** With the help of server monitoring and error detection, we ensure the availability and integrity of our online offering and use the processed data to technically optimize our online offering. Performance, load and comparable technical values are processed, which provide information about the stability and any anomalies of our online offering. In the event of errors and conspicuousness, individual inquiries from the users of our online offering are recorded in order to identify and rectify sources of problems.
-- **Responsible party:** The term \"responsible party" refers to the natural or legal person, authority, institution or other body, who alone or jointly with others determines the purposes and means of the processing of personal data.
+- **Responsible party:** The term "responsible party" refers to the natural or legal person, authority, institution or other body, who alone or jointly with others determines the purposes and means of the processing of personal data.
 - **Processing:** "Processing" means any operation or set of operations which is performed upon personal data, whether or not by automatic means. The term is broad and includes virtually any handling of data, be it collection, analysis, storage, transmission or deletion.
