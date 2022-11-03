@@ -1,6 +1,5 @@
 ---
 title: Über
-slug: über
 aliases:
   - /über
 date: 2022-03-14

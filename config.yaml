@@ -101,19 +101,19 @@ Menu:
   Main:
     - name: "About"
       identifier: about # the identifier controls the section type (and therewith the appearence).
-      url: "/#about"
+      url: "#about"
       weight: 1
     - name: "Work"
       identifier: gallery
-      url: "/#work"
+      url: "#work"
       weight: 2
     - name: "Blog"
       identifier: blog
-      url: "/#blog"
+      url: "#blog"
       weight: 3
     - name: "Contact"
       identifier: contact
-      url: "/#contact"
+      url: "#contact"
       weight: 4
     # Use icon here to back reference an external site:
     #    - pre: "<i class='icon icon-link-ext'></i>&nbsp;"
