@@ -95,32 +95,6 @@ Params:
     # Background:
     #   resize: "1920x"
 
-## The menu items are automatically added to navbar. Use content files for more advanced usage.
-##   See: https://gohugo.io/content-management/menus/#add-content-to-menus
-Menu:
-  Main:
-    - name: "About"
-      identifier: about # the identifier controls the section type (and therewith the appearence).
-      url: "#about"
-      weight: 1
-    - name: "Work"
-      identifier: gallery
-      url: "#work"
-      weight: 2
-    - name: "Blog"
-      identifier: blog
-      url: "#blog"
-      weight: 3
-    - name: "Contact"
-      identifier: contact
-      url: "#contact"
-      weight: 4
-    # Use icon here to back reference an external site:
-    #    - pre: "<i class='icon icon-link-ext'></i>&nbsp;"
-    #      name: ""
-    #      url: "https://pyotek.dev"
-    #      weight: 5
-
 defaultContentLanguage: en
 # required for language switch and detection to work properly
 defaultContentLanguageInSubdir: true
@@ -134,9 +108,52 @@ languages:
     # mdTagline can be used instead to specify the tagline in Markdown for more customizability.
     #   Note that {cursor} is a placeholder and will be replaced by the actual cursor HTML when rendering.
     mdTagline: "# Welcome!\n ## This is the portfolio of Ingo Breßler{cursor}"
+    ## The menu items are automatically added to navbar. Use content files for more advanced usage.
+    ##   See: https://gohugo.io/content-management/menus/#add-content-to-menus
+    Menu:
+      Main:
+        - name: "About"
+          identifier: about # the identifier controls the section type (and therewith the appearence).
+          url: "#about"
+          weight: 1
+        - name: "Work"
+          identifier: gallery
+          url: "#work"
+          weight: 2
+        - name: "News"
+          identifier: blog
+          url: "#news"
+          weight: 3
+        - name: "Contact"
+          identifier: contact
+          url: "#contact"
+          weight: 4
+        # Use icon here to back reference an external site:
+        #    - pre: "<i class='icon icon-link-ext'></i>&nbsp;"
+        #      name: ""
+        #      url: "https://pyotek.dev"
+        #      weight: 5
   de:
     weight: 2
     languageName: Deutsch
     languageCode: de-DE
     description: "Das Portfolio von Ingo Breßler"
     mdTagline: "# Willkommen!\n ## Dies ist das Portfolio von Ingo Breßler{cursor}"
+    Menu:
+      Main:
+        - name: "Über"
+          identifier: about # the identifier controls the section type (and therewith the appearence).
+          url: "#über"
+          weight: 1
+        - name: "Arbeiten"
+          identifier: gallery
+          url: "#arbeiten"
+          weight: 2
+        - name: "News"
+          identifier: blog
+          url: "#news"
+          weight: 3
+        - name: "Kontakt"
+          identifier: contact
+          url: "#kontakt"
+          weight: 4
