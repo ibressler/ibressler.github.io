@@ -4,7 +4,7 @@ theme: "osprey-delight"
 tags: ["personal", "homepage", "portfolio"]
 #canonifyURLS: true
 #googleAnalytics: ""
-disableKinds: ["taxonomy", "taxonomyTerm", "RSS"]
+disableKinds: ["taxonomy", "RSS"]
 enableRobotsTXT: true
 enableEmoji: true
 pygmentsUseClasses: true
@@ -22,7 +22,14 @@ module:
 
 ## Generic theme parameters:
 Params:
-  author: "Ingo Breßler"
+  author:
+    name: "Ingo Breßler"
+  description: "my description"
+
+  # tagline (followed by a cursor) is shown at the top, below the logo
+  #tagline: "Welcome!"
+  mdTagline: "## Ingo Breßler{cursor}"
+
   theme: dedark
 
   # logoBig appears at the top of the page. Use a path relative to the assets dir for auto-resizing. 
@@ -34,12 +41,9 @@ Params:
 
   background: "background.jpg"
 
-  # tagline (followed by a cursor) is shown at the top, below the logo
-  #tagline: "Welcome!"
-
   favicon: "favicon.png"
 
-  opengraphImage: "/images/osprey-delight.png"
+  opengraphImage: "logo-small.png"
 
   # enforceSinglePage will enforce redirection to the baseURL for all sub-directories/-pages.
   #   Example: If you create about.md, Hugo will also create a '/about/index.html'. This file will contain only a redirect directive if this switch is enabled.
