@@ -3,7 +3,7 @@
 title: "McSAS"
 # [str] Optional subtitle of the project. 
 #   Functions as an additional explanation when hovering over a gallery item (comment out the following line).
-subtitle: "A tool for extracting form-free size distributions of small-angle scattering (SAS) patterns using a Monte-Carlo method."
+subtitle: "A program for determining size distributions using a Monte Carlo method from measurement data of small-angle scattering methods such as SAXS or SANS, which are used in analytical or biological chemistry to investigate particles in the nanometer range."
 # [date] Project publication date.
 #   Changes order: The newest item will be displayed first in the gallery. 
 #   Just like Hugo's natural ordering, this is anti-chronological.

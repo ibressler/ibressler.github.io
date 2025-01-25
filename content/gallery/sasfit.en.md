@@ -3,7 +3,7 @@
 title: "SASfit"
 # [str] Optional subtitle of the project. 
 #   Functions as an additional explanation when hovering over a gallery item (comment out the following line).
-subtitle: "A curve fitting program for small-angle scattering curves, mostly from SAXS and SANS experiments in analytical or biological chemistry."
+subtitle: "A curve fitting program for evaluating measurement data from small-angle scattering methods such as SAXS or SANS, which are used in analytical or biological chemistry to investigate particles in the nanometer range."
 # [date] Project publication date.
 #   Changes order: The newest item will be displayed first in the gallery. 
 #   Just like Hugo's natural ordering, this is anti-chronological.

@@ -3,7 +3,7 @@
 title: "McSAS"
 # [str] Optional subtitle of the project. 
 #   Functions as an additional explanation when hovering over a gallery item (comment out the following line).
-subtitle: "Ein Werkzeug zur Extraktion formfreier Größenverteilungen von Kleinwinkelstreuungsmustern (SAS) mit Hilfe einer Monte-Carlo-Methode."
+subtitle: "Ein Programm zur Ermittlung von Größenverteilungen mit einem Monte-Carlo-Verfahren aus Messdaten von Kleinwinkelstreuungsverfahren wie SAXS oder SANS, die in der analytischen oder biologischen Chemie zur Untersuchung von Partikeln im Nanometerbereich eingesetzt werden."
 # [date] Project publication date.
 #   Changes order: The newest item will be displayed first in the gallery. 
 #   Just like Hugo's natural ordering, this is anti-chronological.
