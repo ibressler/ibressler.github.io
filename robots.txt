@@ -1,0 +1,5 @@
+# try to exclude AI scraping bots
+User-agent: GPTBot
+Disallow: /
+User-agent: CCBot
+Disallow: /
