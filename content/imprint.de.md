@@ -20,7 +20,14 @@ Deutschland
 - Email: mail@ingobressler.net
 - Web: {{< siteurl >}}
 
-## Haftungsausschluss:
+## Andere Onlinepräsenzen
+
+Dieses Impressum gilt auch für die folgenden Social-Media-Präsenzen und Onlineprofile:
+- https://www.linkedin.com/in/ingobressler
+- https://www.xing.com/profile/Ingo_Bressler
+- https://github.com/ibressler
+
+## Haftungs- und Schutzrechtshinweise
 
 ### Haftung für Inhalte
 

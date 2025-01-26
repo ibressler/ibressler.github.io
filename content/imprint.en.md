@@ -18,6 +18,13 @@ Deutschland
 - Email: mail@ingobressler.net
 - Web: {{< siteurl >}}
 
+## Other online profiles
+
+This legal notice also applies to the following social media presences and online profiles:
+- https://www.linkedin.com/in/ingobressler
+- https://www.xing.com/profile/Ingo_Bressler
+- https://github.com/ibressler
+
 ## Disclaimer:
 
 ### Liability for contents
