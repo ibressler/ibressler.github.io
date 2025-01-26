@@ -24,11 +24,7 @@ module:
 Params:
   author:
     name: "Ingo Breßler"
-  description: "my description"
-
-  # tagline (followed by a cursor) is shown at the top, below the logo
-  #tagline: "Welcome!"
-  mdTagline: "## Ingo Breßler{cursor}"
+  # for description and mdTagLine, see the language config below
 
   theme: dedark
 
@@ -107,11 +103,12 @@ languages:
     weight: 1
     languageName: English
     languageCode: en-US
-    # description is used in meta tags only, not visible, mdTagLine is
-    description: "The Portfolio of Ingo Breßler"
-    # mdTagline can be used instead to specify the tagline in Markdown for more customizability.
-    #   Note that {cursor} is a placeholder and will be replaced by the actual cursor HTML when rendering.
-    mdTagline: "# Welcome!\n ## This is the portfolio of Ingo Breßler{cursor}"
+    params:
+      # description is used in meta tags only, not visible, mdTagLine is
+      description: "The website of Ingo Breßler"
+      # mdTagline can be used instead to specify the tagline in Markdown for more customizability.
+      #   Note that {cursor} is a placeholder and will be replaced by the actual cursor HTML when rendering.
+      mdTagline: "# Ingo Breßler\n## Development of innovative software and hardware systems{cursor}"
     ## The menu items are automatically added to navbar. Use content files for more advanced usage.
     ##   See: https://gohugo.io/content-management/menus/#add-content-to-menus
     Menu:
@@ -141,8 +138,9 @@ languages:
     weight: 2
     languageName: Deutsch
     languageCode: de-DE
-    description: "Das Portfolio von Ingo Breßler"
-    mdTagline: "# Willkommen!\n ## Dies ist das Portfolio von Ingo Breßler{cursor}"
+    params:
+      description: "Die Webseite von Ingo Breßler"
+      mdTagline: "# Ingo Breßler\n## Entwicklung innovativer Systeme aus Software und Hardware{cursor}"
     Menu:
       Main:
         - name: "Über"
