@@ -1,6 +1,6 @@
 ---
 title: Privacy Policy
-date: 2022-09-16
+date: 2025-01-25
 draft: false
 weight: 10
 footerlink: true
@@ -36,7 +36,7 @@ Status: June 26, 2022
 
 ## Person responsible {#m3}
 
-Ingo Breßler \
+Dr.-Ing. Ingo Breßler \
 Nansenstr. 3 \
 14471 Potsdam
 

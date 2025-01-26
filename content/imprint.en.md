@@ -1,6 +1,6 @@
 ---
 title: Imprint
-date: 2022-09-16
+date: 2025-01-25
 draft: false
 weight: 30
 footerlink: true
@@ -8,7 +8,7 @@ footerlink: true
 
 ## Responsible service provider
 
-Ingo Breßler \
+Dr.-Ing. Ingo Breßler \
 Nansenstr. 3 \
 14471 Potsdam \
 Deutschland

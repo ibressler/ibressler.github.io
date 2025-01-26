@@ -2,7 +2,7 @@
 title: Datenschutzerklärung
 aliases:
   - /datenschutz
-date: 2022-09-16
+date: 2025-01-25
 draft: false
 weight: 10
 footerlink: true
@@ -38,7 +38,7 @@ Stand: 18. September 2022
 
 ## Verantwortlicher {#m3}
 
-Ingo Breßler \
+Dr.-Ing. Ingo Breßler \
 Nansenstr. 3 \
 14471 Potsdam
 

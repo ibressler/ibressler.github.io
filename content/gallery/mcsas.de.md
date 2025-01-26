@@ -9,7 +9,7 @@ subtitle: "Ein Programm zur Ermittlung von Größenverteilungen mit einem Monte-
 #   Just like Hugo's natural ordering, this is anti-chronological.
 #   You can use 'weight' to order (primarily) for more control (sometimes it makes sense to put old items before new ones).
 #   The specifics are documented here: https://gohugo.io/templates/lists/#order-content
-date: "2022-03-14T16:27:45+01:00"
+date: "2025-01-25T16:27:45+01:00"
 weight: 10
 # [str] Gallery image file. 
 #   If the specified image is found in the 'assets' directory  the image will be normalized to a specified height. 
