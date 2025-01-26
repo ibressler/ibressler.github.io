@@ -50,14 +50,16 @@ Params:
 
 ## Social links in footer:
   Social:
-  - type: twitter # the icon to use. can be anything mentioned in "assets/sass/_icons.scss" 
-    url: "https://twitter.com/ingobressler"
+#  - type: twitter # the icon to use. can be anything mentioned in "assets/sass/_icons.scss" 
+#    url: "https://twitter.com/ingobressler"
+  - type: github
+    url: "https://github.com/ibressler"
   - type: linkedin 
     url: "https://www.linkedin.com/in/ingobressler"
   - type: xing 
     url: "https://www.xing.com/profile/Ingo_Bressler"
-  - type: github
-    url: "https://github.com/ibressler"
+  - type: orcid
+    url: "https://orcid.org/0000-0002-2012-0056"
 #  - type: stackoverflow  
 #    url: ""
 
