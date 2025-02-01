@@ -176,7 +176,7 @@ Payment transactions are subject to the terms and conditions and the data protec
 
 Further information on processing operations, procedures and services:
 
-- **PayPal:** Payment services (technical connection of online payment methods) (e.g. PayPal, PayPal Plus, Braintree); Service provider: PayPal (Europe) S.à r.l. et Cie, S.C.A., 22-24 Boulevard Royal, L-2449 Luxembourg; Legal basis: Performance of contract and pre-contractual inquiries (Art. 6 para. 1 sentence 1 lit. b) GDPR); Website: <https://www.paypal.com/de>, Privacy Policy: <https://www.paypal.com/de/webapps/mpp/ua/privacy-full>.
+- **PayPal:** Payment services (technical connection of online payment methods) (e.g. PayPal, PayPal Plus, Braintree); Service provider: PayPal (Europe) S.à r.l. et Cie, S.C.A., 22-24 Boulevard Royal, L-2449 Luxembourg; Legal basis: Performance of contract and pre-contractual inquiries (Art. 6 para. 1 sentence 1 lit. b) GDPR); Website: <https://www.paypal.com/en>, Privacy Policy: <https://www.paypal.com/en/webapps/mpp/ua/privacy-full>.
 
 ## Provision of the online offer and web hosting {#m225}
 
