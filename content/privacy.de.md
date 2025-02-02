@@ -43,7 +43,7 @@ Stand: 1. Januar 2025
 
 Dr.-Ing. Ingo Breßler  
 Nansenstr. 3  
-14471 Potsdam
+14471 Potsdam  
 Deutschland
 
 E-Mail-Adresse: mail@ingobressler.net
