@@ -1,5 +1,7 @@
 ---
 title: Privacy Policy
+aliases:
+  - /privacy
 date: 2025-01-25
 draft: false
 weight: 10
