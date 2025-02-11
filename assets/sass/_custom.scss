@@ -9,5 +9,13 @@ footer {
   .social {
      margin-top: $vertical-rhythm;
      margin-bottom: $vertical-rhythm;
-   }
+  }
+}
+
+.gallery {
+  .overlay {
+    h3 {
+      font-size: 100%;
+    }
+  }
 }
