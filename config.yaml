@@ -10,11 +10,11 @@ enableEmoji: true
 pygmentsUseClasses: true
 
 caches:
-    getjson:
+    getresource:
         dir: ":cacheDir/:project"
         maxAge: "10h"
 
-ignoreErrors: ["error-remote-getjson"]
+ignoreErrors: ["error-remote-getresource"]
 
 module:
   imports:
