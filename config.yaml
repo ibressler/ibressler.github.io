@@ -104,8 +104,8 @@ defaultContentLanguageInSubdir: true
 languages:
   en:
     weight: 1
-    languageName: English
-    languageCode: en-US
+    label: English
+    locale: en-US
     params:
       # description is used in meta tags only, not visible, mdTagLine is
       description: "The website of Ingo Breßler"
@@ -139,8 +139,8 @@ languages:
         #      weight: 5
   de:
     weight: 2
-    languageName: Deutsch
-    languageCode: de-DE
+    label: Deutsch
+    locale: de-DE
     params:
       description: "Die Webseite von Ingo Breßler"
       mdTagline: "# Ingo Breßler\n## Entwicklung innovativer Systeme aus Software und Hardware{cursor}"
