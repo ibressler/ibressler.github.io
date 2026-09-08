@@ -40,3 +40,17 @@ main section {
     text-align: center;
   }
 }
+
+main section p a,
+main section li a,
+.content p a,
+.content li a {
+  text-decoration: underline;
+  text-decoration-color: $accent-color;
+  text-decoration-thickness: 1.5px;
+  text-underline-offset: 3px;
+
+  &:hover {
+    color: $accent-color;
+  }
+}
