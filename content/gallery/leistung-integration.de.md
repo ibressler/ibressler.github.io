@@ -4,8 +4,6 @@ subtitle: Messdaten automatisch erfassen und auswerten
 date: 2026-09-05
 weight: 2
 image: "logo-large.png"
-color: "#111318"
-hoverColor: "#111318"
 draft: false
 ---
 

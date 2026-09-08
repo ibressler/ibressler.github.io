@@ -4,8 +4,6 @@ subtitle: Sonder- und Prototypenmaschinen in Betrieb nehmen
 date: 2026-09-05
 weight: 1
 image: "logo-large.png"
-color: "#111318"
-hoverColor: "#111318"
 draft: false
 ---
 

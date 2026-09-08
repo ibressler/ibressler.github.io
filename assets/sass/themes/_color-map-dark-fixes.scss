@@ -1,7 +1,7 @@
 $footer-bg-color: $primary-fg-color;
 $footer-text-color: $primary-bg-color;
 
-$gallery-bg-color: $primary-bg-color;
+$gallery-bg-color: lighten($primary-bg-color, 4%);
 $gallery-modal-bg-color: $gallery-bg-color;
-$gallery-overlay-bg-color: $primary-fg-color;
+$gallery-overlay-bg-color: $gallery-bg-color; // hoverColor
 $gallery-overlay-title-color: $primary-fg-color;
