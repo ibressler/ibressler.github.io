@@ -5,18 +5,25 @@ draft: false
 weight: 50
 ---
 
-My name is Ingo Breßler. As an experienced computer engineer, I design and implement solutions for technical challenges in various application areas.
+My name is Ingo Breßler. I am a computer engineer (Dipl.-Ing. in Computer
+Engineering, with a doctorate) and have around 17 years of professional
+experience in the development of technical and scientific software and control systems.
 
-I combine suitable technologies and methods from software and hardware and optimize them for their purpose and area of application.
+My work focuses on the interface between hardware and software: I develop
+control systems for custom and prototype machines, integrate measurement
+and test instruments into software environments, and automate processes —
+from the control hardware through to data analysis. The aim is always to
+reduce manual steps, make processes reliable, and establish the basis for
+consistent digitalisation in laboratory and production environments.
 
-This includes, for example:
-| | |    |
-|-|-| :- |
-|{{< icon geometry >}}|&nbsp;| **Computer-controlled 3D cutting machines** that cut out freely designed three-dimensional shapes from a block of foam; these are used by industrial designers and architects |
-|{{< icon machine >}} |      | Control and **data preparation for a 3D ceramic printer** with a rotating printing bed as external consulting for the prototype development of a start-up company |
-|{{< icon analysis >}}|      | **Development of algorithms** for the comparison of measurement data with theoretical models in science |
-|{{< icon optim >}}   |      | **Digitalization** in the chemistry laboratory to record data and information from experiments and processes as automatically as possible, to archive this data in a structured and machine-readable format and to use it later as a starting point for further analyses. |
+For each task, I select suitable technologies and tools, adapt them to the
+specific application, and develop what is still missing where needed. This
+allows for efficient implementation without unnecessary effort — and a
+single point of contact for both hardware and software matters.
 
-Do you have similar exciting projects and need technical support with planning and implementation? [Feel free to contact me]({{% relref path="/#contact" lang="en" %}}) for a non-binding half-hour initial consultation and tell me about your project!
+Do you have a project involving control technology, instrument integration
+or process automation?
+[Feel free to contact me]({{% relref path="/#contact" lang="en" %}})
+for a non-binding half-hour initial consultation and tell me about your project!
 
 # [{{< icon "about" >}}]({{% relref path="/#contact" lang="en" %}})

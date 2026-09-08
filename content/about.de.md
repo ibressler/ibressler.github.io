@@ -7,18 +7,27 @@ draft: false
 weight: 50
 ---
 
-Mein Name ist Ingo Breßler. Als erfahrener Computer-Ingenieur entwerfe und realisiere ich Lösungen für technische Herausforderungen in verschiedenen Anwendungsgebieten.
+Mein Name ist Ingo Breßler. Ich bin Diplom-Ingenieur der Technischen
+Informatik (promoviert) mit rund 17 Jahren Berufserfahrung in der
+Entwicklung technischer und wissenschaftlicher Software- und Steuerungssysteme.
 
-Ich kombiniere geeignete Technologien und Methoden aus Software und Hardware und optimiere sie für ihren Zweck und ihr Einsatzgebiet.
+Mein Arbeitsschwerpunkt liegt an der Schnittstelle von Hardware und
+Software: Ich entwickle Steuerungssysteme für Sonder- und
+Prototypenmaschinen, integriere Mess- und Prüfgeräte in
+Software-Umgebungen und automatisiere Prozesse — von der
+Steuerungshardware bis zur Datenauswertung. Ziel ist dabei stets,
+manuelle Schritte zu reduzieren, Prozesse zuverlässig zu gestalten
+und die Grundlage für eine durchgängige Digitalisierung im Labor-
+und Fertigungsumfeld zu schaffen.
 
-Dazu gehören zum Beispiel:
-| | |    |
-|-|-| :- |
-|{{< icon geometry >}}|&nbsp;| **computergesteuerte 3D-Schneidemaschinen**, die frei gestaltete dreidimensionale Formen aus einem Schaumstoffblock ausschneiden; diese werden von Industriedesignern und Architekten eingesetzt |
-|{{< icon machine >}} |      | die Steuerung und **Datenaufbereitung für einen Keramik-3D-Drucker** mit rotierendem Druckbett als externe Beratung für die Prototypenentwicklung eines Start-ups |
-|{{< icon analysis >}}|      | die **Entwicklung von Algorithmen** für den Abgleich von Messdaten mit theoretischen Modellen in der Wissenschaft |
-|{{< icon optim >}}   |      | die **Digitalisierung** im Chemielabor, um Daten und Informationen von Experimenten und Prozessen möglichst automatisiert zu erfassen, diese Daten dann strukturiert und maschinenlesbar zu archivieren und sie später als Ausgangspunkt für weitere Analysen zu nutzen. |
+Ich wähle für jede Aufgabe geeignete Technologien und Werkzeuge aus,
+passe sie an den konkreten Einsatzfall an und entwickle gezielt, was
+noch fehlt. Das ermöglicht eine effiziente Umsetzung ohne unnötigen
+Aufwand — und einen Ansprechpartner für Hardware- und Softwarefragen
+gleichermaßen.
 
-Haben Sie ähnliche spannende Projekte und benötigen technische Unterstützung bei der Planung und Umsetzung? [Kontaktieren Sie mich gerne]({{% relref path="/#kontakt" lang="de" %}}) für ein unverbindliches halbstündiges Erstgespräch und erzählen Sie mir von Ihrem Projekt!
+Haben Sie ein Projekt, bei dem Steuerungstechnik, Geräteintegration
+oder Prozessautomatisierung gefragt sind?
+[Kontaktieren Sie mich gerne]({{% relref path="/#kontakt" lang="de" %}}) für ein unverbindliches halbstündiges Erstgespräch und erzählen Sie mir von Ihrem Projekt!
 
 # [{{< icon "about" >}}]({{% relref path="/#kontakt" lang="de" %}})

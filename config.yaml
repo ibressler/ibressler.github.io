@@ -111,7 +111,7 @@ languages:
       description: "The website of Ingo Breßler"
       # mdTagline can be used instead to specify the tagline in Markdown for more customizability.
       #   Note that {cursor} is a placeholder and will be replaced by the actual cursor HTML when rendering.
-      mdTagline: "# Ingo Breßler\n## Development of innovative software and hardware systems{cursor}"
+      mdTagline: "# Ingo Breßler\n## Machine Control, Equipment Integration & Automation{cursor}"
     ## The menu items are automatically added to navbar. Use content files for more advanced usage.
     ##   See: https://gohugo.io/content-management/menus/#add-content-to-menus
     Menu:
@@ -120,18 +120,26 @@ languages:
           identifier: about # the identifier controls the section type (and therewith the appearence).
           url: "#about"
           weight: 1
+        - name: "Services"
+          identifier: services
+          url: "#services"
+          weight: 2
         - name: "Work"
           identifier: gallery
           url: "#work"
-          weight: 2
+          weight: 3
+        - name: "Scientific Background"
+          identifier: science
+          url: "#science"
+          weight: 4
         - name: "News"
           identifier: blog
           url: "#news"
-          weight: 3
+          weight: 5
         - name: "Contact"
           identifier: contact
           url: "#contact"
-          weight: 4
+          weight: 6
         # Use icon here to back reference an external site:
         #    - pre: "<i class='icon icon-link-ext'></i>&nbsp;"
         #      name: ""
@@ -143,22 +151,30 @@ languages:
     locale: de-DE
     params:
       description: "Die Webseite von Ingo Breßler"
-      mdTagline: "# Ingo Breßler\n## Entwicklung innovativer Systeme aus Software und Hardware{cursor}"
+      mdTagline: "# Ingo Breßler\n## Maschinensteuerung, Geräteintegration & Automatisierung{cursor}"
     Menu:
       Main:
         - name: "Über"
           identifier: about # the identifier controls the section type (and therewith the appearence).
           url: "#über"
           weight: 1
+        - name: "Leistungen"
+          identifier: services
+          url: "#leistungen"
+          weight: 2
         - name: "Arbeiten"
           identifier: gallery
           url: "#arbeiten"
-          weight: 2
+          weight: 3
+        - name: "Wiss. Hintergrund"
+          identifier: science
+          url: "#science"
+          weight: 4
         - name: "News"
           identifier: blog
           url: "#news"
-          weight: 3
+          weight: 5
         - name: "Kontakt"
           identifier: contact
           url: "#kontakt"
-          weight: 4
+          weight: 6
