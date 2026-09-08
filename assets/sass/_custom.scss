@@ -25,3 +25,13 @@ main section {
     text-align: left;
   }
 }
+
+.about {
+  p {
+    @include size(p);
+  }
+  // Center the last element (the icon heading) in the About section only:
+  h1:last-child {
+    text-align: center;
+  }
+}

@@ -117,7 +117,7 @@ languages:
     Menu:
       Main:
         - name: "About"
-          identifier: about # the identifier controls the section type (and therewith the appearence).
+          identifier: about # the identifier controls the section type (and therewith the appearance).
           url: "#about"
           weight: 1
         - name: "Services"
