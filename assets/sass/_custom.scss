@@ -14,8 +14,13 @@ footer {
 
 .gallery {
   .overlay {
+    visibility: visible;
+    opacity: 0.9;
+    h2, h3 {
+        text-shadow: 0 1px 3px rgba(0, 0, 0, 0.6);
+        text-align: center;}
     h3 {
-      font-size: 100%;
+        font-size: 100%;
     }
   }
 }

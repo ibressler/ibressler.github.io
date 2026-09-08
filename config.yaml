@@ -121,12 +121,12 @@ languages:
           url: "#about"
           weight: 1
         - name: "Services"
-          identifier: services
+          identifier: gallery
           url: "#services"
           weight: 2
-        - name: "Work"
-          identifier: gallery
-          url: "#work"
+        - name: "Approach"
+          identifier: approach
+          url: "#approach"
           weight: 3
         - name: "Scientific Background"
           identifier: science
@@ -159,12 +159,12 @@ languages:
           url: "#über"
           weight: 1
         - name: "Leistungen"
-          identifier: services
+          identifier: gallery
           url: "#leistungen"
           weight: 2
-        - name: "Arbeiten"
-          identifier: gallery
-          url: "#arbeiten"
+        - name: "Arbeitsweise"
+          identifier: approach
+          url: "#arbeitsweise"
           weight: 3
         - name: "Wiss. Hintergrund"
           identifier: science

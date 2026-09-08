@@ -1,0 +1,12 @@
+<div class="container middle-xs">
+  <div class="row center-xs">
+    <div class="col-xs-12">
+      {{ with .Title }}<h1>{{ . }}</h1>{{ end }}
+      {{ with .Content }}{{ . }}{{ end }}
+    </div>
+  </div>
+</div>
+{{ if gt (len (where site.RegularPages "Section" "gallery")) 0 }}
+  {{ partial "sections/gallery/gallery.html" . }}
+  {{ partial "sections/gallery/modals.html" . }}
+{{ end }}

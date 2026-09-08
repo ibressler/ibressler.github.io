@@ -20,5 +20,5 @@ color: "#fff"
 #     newTab: true # optional: controls if url should be opened in new tab
 #     url: "https://scripts.iucr.org/cgi-bin/paper?S1600576715007347"
 # [bool] Draft mode will decide if file will be published to 'public/' directory.
-draft: false
+draft: true
 ---
