@@ -14,8 +14,10 @@ Aus meiner wissenschaftlichen Arbeit sind zwei Open-Source-Programme zur Auswert
 
 [SASfit](https://sasfit.org) ist ein Open-Source-Programm zur Kurvenanpassung und Auswertung von Messdaten aus Kleinwinkelstreuungsverfahren wie SAXS oder SANS mittels nicht-linearer Optimierung. Es wird in der analytischen oder biologischen Chemie zur Untersuchung von Partikeln im Nanometerbereich eingesetzt.
 
-- J. Kohlbrecher & I. Breßler, "Updates in SASfit for fitting analytical expressions and numerical models to small-angle scattering patterns". Journal of Applied Crystallography 55: 1677-1688. [DOI: 10.1107/S1600576722009037](https://doi.org/10.1107/S1600576722009037)
-- I. Breßler, J. Kohlbrecher & A. F. Thünemann, "SASfit: a tool for small-angle scattering data analysis using a library of analytical expressions". Journal of Applied Crystallography 48: 1587-1598. [DOI: 10.1107/S1600576715016544](https://doi.org/10.1107/S1600576715016544)
+- J. Kohlbrecher & I. Breßler, "Updates in SASfit for fitting analytical expressions and numerical models to small-angle scattering patterns". Journal of Applied Crystallography 55: 1677-1688.  
+  [DOI: 10.1107/S1600576722009037](https://doi.org/10.1107/S1600576722009037)
+- I. Breßler, J. Kohlbrecher & A. F. Thünemann, "SASfit: a tool for small-angle scattering data analysis using a library of analytical expressions". Journal of Applied Crystallography 48: 1587-1598.  
+  [DOI: 10.1107/S1600576715016544](https://doi.org/10.1107/S1600576715016544)
 
 ## McSAS
 

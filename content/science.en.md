@@ -19,8 +19,10 @@ and analysis of measurement data from small-angle scattering methods such
 as SAXS or SANS, using non-linear optimisation. It is used in analytical
 and biological chemistry to investigate particles in the nanometre range.
 
-- J. Kohlbrecher & I. Breßler, "Updates in SASfit for fitting analytical expressions and numerical models to small-angle scattering patterns". Journal of Applied Crystallography 55: 1677-1688. [DOI: 10.1107/S1600576722009037](https://doi.org/10.1107/S1600576722009037)
-- I. Breßler, J. Kohlbrecher & A. F. Thünemann, "SASfit: a tool for small-angle scattering data analysis using a library of analytical expressions". Journal of Applied Crystallography 48: 1587-1598. [DOI: 10.1107/S1600576715016544](https://doi.org/10.1107/S1600576715016544)
+- J. Kohlbrecher & I. Breßler, "Updates in SASfit for fitting analytical expressions and numerical models to small-angle scattering patterns". Journal of Applied Crystallography 55: 1677-1688.    
+  [DOI: 10.1107/S1600576722009037](https://doi.org/10.1107/S1600576722009037)
+- I. Breßler, J. Kohlbrecher & A. F. Thünemann, "SASfit: a tool for small-angle scattering data analysis using a library of analytical expressions". Journal of Applied Crystallography 48: 1587-1598.  
+  [DOI: 10.1107/S1600576715016544](https://doi.org/10.1107/S1600576715016544)
 
 ## McSAS
 
