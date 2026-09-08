@@ -124,18 +124,18 @@ languages:
           identifier: gallery
           url: "#services"
           weight: 2
-        - name: "Approach"
-          identifier: approach
-          url: "#approach"
+        - name: "References"
+          identifier: references
+          url: "#references"
           weight: 3
-        - name: "Scientific Background"
+        - name: "Science"
           identifier: science
           url: "#science"
           weight: 4
-        - name: "News"
-          identifier: blog
-          url: "#news"
-          weight: 5
+#        - name: "News"
+#          identifier: blog
+#          url: "#news"
+#          weight: 5
         - name: "Contact"
           identifier: contact
           url: "#contact"
@@ -162,18 +162,18 @@ languages:
           identifier: gallery
           url: "#leistungen"
           weight: 2
-        - name: "Arbeitsweise"
-          identifier: approach
-          url: "#arbeitsweise"
+        - name: "Referenzen"
+          identifier: references
+          url: "#referenzen"
           weight: 3
-        - name: "Wiss. Hintergrund"
+        - name: "Forschung"
           identifier: science
           url: "#science"
           weight: 4
-        - name: "News"
-          identifier: blog
-          url: "#news"
-          weight: 5
+#        - name: "News"
+#          identifier: blog
+#          url: "#news"
+#          weight: 5
         - name: "Kontakt"
           identifier: contact
           url: "#kontakt"
