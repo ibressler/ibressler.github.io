@@ -12,6 +12,13 @@ footer {
   }
 }
 
+// Title/intro block above the service tiles: the theme's .container class
+// carries a large top+bottom padding meant for full standalone sections;
+// here we only need reasonable top spacing and a small gap before the tiles.
+.gallery-intro {
+  padding: $vertical-rhythm * 2 $vertical-rhythm 0.5 * $vertical-rhythm;
+}
+
 .gallery {
   .overlay {
     visibility: visible;
