@@ -41,6 +41,7 @@ main section {
   }
 }
 
+// Highlight hyperlinks in body text and match hover text color for emphasis.
 main section p a,
 main section li a,
 .content p a,
@@ -52,5 +53,46 @@ main section li a,
 
   &:hover {
     color: $accent-color;
+  }
+}
+
+// adjust menu item spacing for wide screens to prevent linebreak
+nav {
+  @media (min-width: $mobile-breakpoint) {
+    padding: 0 4.5rem;
+
+    .logo {
+      position: absolute;
+      left: 1rem;
+      top: 50%;
+      transform: translateY(-50%);
+    }
+
+    #language {
+      position: absolute;
+      right: 1rem;
+      top: 50%;
+      transform: translateY(-50%);
+    }
+
+    .nav-toggle {
+      display: none;
+    }
+
+    // Override the fixed grid width (flex: 0 0 16.67%): let nav items
+    // share the available space dynamically, instead of leaving gaps
+    // at the edges or overflowing when the window is narrow.
+    .nav-item {
+      flex: 1 1 0;
+      max-width: none;
+      min-width: 0; // allow shrinking below content width so text wraps instead of overflowing
+      padding-left: 0.25rem;
+      padding-right: 0.25rem;
+    }
+
+    .nav-item h3 {
+      white-space: normal; // wrap onto a second line instead of overflowing
+      font-size: 0.95em;   // slightly more compact, so more fits on one line
+    }
   }
 }
