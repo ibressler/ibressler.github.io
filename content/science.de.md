@@ -12,6 +12,9 @@ Aus meiner wissenschaftlichen Arbeit sind zwei Open-Source-Programme zur Auswert
 
 ## SASfit 
 
+<a href="https://sasfit.org" target="_blank" rel="noopener noreferrer">
+<img src="sasfit.png" alt="SASfit Program Icon" class="content-project-icon"></a>
+
 [SASfit](https://sasfit.org) ist ein Open-Source-Programm zur Kurvenanpassung und Auswertung von Messdaten aus Kleinwinkelstreuungsverfahren wie SAXS oder SANS mittels nicht-linearer Optimierung. Es wird in der analytischen oder biologischen Chemie zur Untersuchung von Partikeln im Nanometerbereich eingesetzt.
 
 - J. Kohlbrecher & I. Breßler, "Updates in SASfit for fitting analytical expressions and numerical models to small-angle scattering patterns". Journal of Applied Crystallography 55: 1677-1688.  
@@ -20,6 +23,9 @@ Aus meiner wissenschaftlichen Arbeit sind zwei Open-Source-Programme zur Auswert
   [DOI: 10.1107/S1600576715016544](https://doi.org/10.1107/S1600576715016544)
 
 ## McSAS
+
+<a href="https://bamresearch.github.io/McSAS3/readme.html" target="_blank" rel="noopener noreferrer">
+<img src="mcsas.png" alt="McSAS Program Icon" class="content-project-icon"></a>
 
 [McSAS](https://bamresearch.github.io/McSAS3/readme.html) ist ebenfalls ein Open-Source-Programm zur Ermittlung von Größenverteilungen aus Messdaten von Kleinwinkelstreuungsverfahren wie SAXS oder SANS, basierend auf einem Monte-Carlo-Verfahren. Wie SASfit wird es in der analytischen und biologischen Chemie zur Untersuchung von Partikeln im Nanometerbereich eingesetzt.
 

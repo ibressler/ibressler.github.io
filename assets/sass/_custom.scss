@@ -103,3 +103,12 @@ nav {
     }
   }
 }
+
+// Float selected content images beside surrounding text
+.content-project-icon {
+    float: left;
+    width: 5.6em;
+    margin: 0.5rem 1rem 0.5rem 0;
+    background-color: white;
+    border-radius: 8px;
+}
