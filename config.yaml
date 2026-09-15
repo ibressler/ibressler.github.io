@@ -21,6 +21,12 @@ module:
     - path: github.com/hugo-mods/icons
     - path: github.com/hugo-mods/lazyimg
 
+markup:
+  goldmark:
+    renderer:
+      # render raw HTML mixed within Markdown. This is unsafe unless the content is under your control
+      unsafe: true
+
 ## Generic theme parameters:
 Params:
   author:
