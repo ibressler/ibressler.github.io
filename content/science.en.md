@@ -15,7 +15,7 @@ found on [ORCID ![ORCID iD](https://orcid.org/sites/default/files/images/orcid_1
 ## SASfit
 
 <a href="https://sasfit.org" target="_blank" rel="noopener noreferrer">
-<img src="sasfit.png" alt="SASfit Program Icon" class="content-project-icon"></a>
+<img src="/img/sasfit.png" alt="SASfit Program Icon" class="content-project-icon"></a>
 
 [SASfit](https://sasfit.org) is an open-source program for curve fitting
 and analysis of measurement data from small-angle scattering methods such
@@ -30,7 +30,7 @@ and biological chemistry to investigate particles in the nanometre range.
 ## McSAS
 
 <a href="https://bamresearch.github.io/McSAS3/readme.html" target="_blank" rel="noopener noreferrer">
-<img src="mcsas.png" alt="McSAS Program Icon" class="content-project-icon"></a>
+<img src="/img/mcsas.png" alt="McSAS Program Icon" class="content-project-icon"></a>
 
 [McSAS](https://bamresearch.github.io/McSAS3/readme.html) is likewise an
 open-source program for determining size distributions from measurement
