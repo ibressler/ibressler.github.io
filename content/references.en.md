@@ -1,7 +1,5 @@
 ---
 title: References
-aliases:
-  - /references
 date: 2026-09-05
 draft: false
 weight: 45

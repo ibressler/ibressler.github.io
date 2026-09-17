@@ -1,7 +1,5 @@
 ---
 title: Über
-aliases:
-  - /über
 date: 2025-01-25
 draft: false
 weight: 50

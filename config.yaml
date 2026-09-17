@@ -162,15 +162,15 @@ languages:
       Main:
         - name: "Über"
           identifier: about # the identifier controls the section type (and therewith the appearence).
-          url: "#über"
+          url: "#about"
           weight: 1
         - name: "Leistungen"
           identifier: gallery
-          url: "#leistungen"
+          url: "#services"
           weight: 2
         - name: "Referenzen"
           identifier: references
-          url: "#referenzen"
+          url: "#references"
           weight: 3
         - name: "Forschung"
           identifier: science
@@ -182,5 +182,5 @@ languages:
 #          weight: 5
         - name: "Kontakt"
           identifier: contact
-          url: "#kontakt"
+          url: "#contact"
           weight: 6
